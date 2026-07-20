@@ -1,8 +1,3 @@
-<!-- ════════════════════════════════════════════════════════════════
-     README DE PERFIL · Organización B2Bit
-     Ubícalo en:  repositorio ".github"  →  profile/README.md
-     Los bloques  <!-- EDITA -->  son los personalizables.
-════════════════════════════════════════════════════════════════ -->
 
 <!-- ░░░ BANNER ░░░ -->
 <p align="center">
